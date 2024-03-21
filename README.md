@@ -1,7 +1,5 @@
 Evaluating the performance of end to end deep learning
-models in a custom car driving simulator
-
-Summary
+models in a custom car driving simulator:
 
 This report documents the creation of a custom car driving simulator in the Godot game engine and
 evaluates the performance of convolutional neural networks (CNNs) within the simulator. The CNN
